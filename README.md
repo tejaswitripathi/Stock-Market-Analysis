@@ -1,2 +1,4 @@
 # EconomicAnalysisProject
- Use Microsoft Excel to analyze the correlation between the growth rate of the Dow Jones Industrial Average and the GDP growth rate in order to assess the hypothesis that the stock market growth rate is a reliable procyclic economic indicator.
+ Use Microsoft Excel to analyze the correlation between the growth rate of the Dow Jones Industrial Average and the unemployment rate in order to assess the hypothesis that the stock market growth rate is a reliable procyclic economic indicator.
+
+Obtain 5-year data sets of the unemployment rate and DJIA, preferably during periods of relative economic stability in order to avoid outliers. Calculate the coefficient of correlation for each data set, then find the overall average coefficient of correlation. Because the unemployment rate is an anticyclic economic indicator, and assuming that the hypothesis is true, the resulting coefficient of correlation should be close to -1. 
