@@ -1,4 +1,4 @@
-# EconomicAnalysisProject
+# Stock Market Analysis
  Use Microsoft Excel to analyze the correlation between the growth rate of the Dow Jones Industrial Average and the unemployment rate in order to assess the hypothesis that the stock market growth rate is a not reliable procyclic economic indicator.
 
 Obtain 5-year data sets of the unemployment rate and DJIA, preferably during periods of relative economic stability in order to avoid outliers. Calculate the coefficient of correlation for each data set, then find the overall average coefficient of correlation. Because the unemployment rate is an anticyclic economic indicator, and assuming that the null hypothesis is true, the resulting coefficient of correlation should be close to 0. If the null hypothesis is false, then the resulting coefficient of correlation should be -1.
